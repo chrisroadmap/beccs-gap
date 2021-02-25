@@ -1,3 +1,13 @@
+### Non-python related
+
+# vim temporary files
+*.swp
+
+# Google Drive config
+desktop.ini
+
+### Python-related
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
